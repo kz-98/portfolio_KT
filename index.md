@@ -1,6 +1,4 @@
----
-title: Welcome to my blog
----
+
 # Hello , I'm Kidus
 
 > Dedicated and efficient full stack developer with hands-on experience on the development of web application technology solutions for front end, back end and database  
